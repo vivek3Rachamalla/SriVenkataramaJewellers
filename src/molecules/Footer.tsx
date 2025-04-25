@@ -161,7 +161,7 @@ const Footer: React.FC = () => {
                 fontSize="small"
                 sx={{ verticalAlign: "sub" }}
               />{" "}
-              +91 9182344852
+              +91 7674007976
             </Typography>
           </Grid2>
         </Grid2>
